@@ -38,7 +38,7 @@ a {
 nav {
   width: 100%;
   height: 90px;
-  background: var(--primary);
+  background: var(--body);
   position: fixed;
   z-index: 200;
   top: 0;
@@ -273,7 +273,7 @@ main {
   position: relative;
   top: 90px;
   color: var(--fff);
-  background: var(--gray-light);
+  background: var(--body);
   height: 2000px;
   width: 100%;
   position: relative;
